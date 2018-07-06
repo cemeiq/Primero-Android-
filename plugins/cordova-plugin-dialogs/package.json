@@ -1,0 +1,74 @@
+{
+  "_from": "cordova-plugin-dialogs@1.2.0",
+  "_id": "cordova-plugin-dialogs@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-yxRVqAtNqTIpRvZV+BAv9Oq1zp0=",
+  "_location": "/cordova-plugin-dialogs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-dialogs@1.2.0",
+    "name": "cordova-plugin-dialogs",
+    "escapedName": "cordova-plugin-dialogs",
+    "rawSpec": "1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "1.2.0"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-dialogs/-/cordova-plugin-dialogs-1.2.0.tgz",
+  "_shasum": "cb1455a80b4da9322946f655f8102ff4eab5ce9d",
+  "_spec": "cordova-plugin-dialogs@1.2.0",
+  "_where": "C:\\Users\\Iqra Muhammad\\Documents\\Sugarizer\\test5",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-dialogs/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-dialogs",
+    "platforms": [
+      "firefoxos",
+      "android",
+      "browser",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "blackberry10",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Notification Plugin",
+  "homepage": "https://github.com/apache/cordova-plugin-dialogs#readme",
+  "keywords": [
+    "cordova",
+    "notification",
+    "ecosystem:cordova",
+    "cordova-firefoxos",
+    "cordova-android",
+    "cordova-browser",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-ios",
+    "cordova-blackberry10",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-windows"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-dialogs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-dialogs.git"
+  },
+  "version": "1.2.0"
+}

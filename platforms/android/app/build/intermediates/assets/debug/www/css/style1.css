@@ -1,0 +1,56 @@
+
+:root { font-size: 14px; }
+@media (min-width: 350px) { :root { font-size: 16px; }
+
+
+}
+@media (min-width: 640px) { :root { font-size: 28px; }
+
+
+ }
+@media (min-width: 1440px) { :root { font-size: 1.25vw;}
+
+
+#lineDrawing.logo{
+
+}
+
+
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body{
+  background-color: white;
+
+}
+
+.container {
+    height: 0;             /* collapse the container's height */
+    width: 48%;    /* specify any width you want (a percentage value, basically) */
+    /* apply a padding using the following formula */
+    /* this formula makes sure the aspect ratio of the container equals that of the svg graphic */
+
+	font-size: 8px;
+
+  margin: 0 auto;
+    position: relative;    /* create positioning context for svg */
+}
+
+#lineDrawing.logo {
+  display: flex;
+	stroke-opacity: 0.5;
+  fill-opacity:0.5;
+  max-width: 300px;
+    margin: 0 auto;
+    width: 100%;
+    align-items: center;
+    height: auto;
+}

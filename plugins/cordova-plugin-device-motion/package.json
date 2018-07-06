@@ -1,0 +1,77 @@
+{
+  "_from": "cordova-plugin-device-motion@1.2.0",
+  "_id": "cordova-plugin-device-motion@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-14/8S4b1AAd9CqwlzuSmTwjghJQ=",
+  "_location": "/cordova-plugin-device-motion",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-device-motion@1.2.0",
+    "name": "cordova-plugin-device-motion",
+    "escapedName": "cordova-plugin-device-motion",
+    "rawSpec": "1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "1.2.0"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-device-motion/-/cordova-plugin-device-motion-1.2.0.tgz",
+  "_shasum": "d78ffc4b86f500077d0aac25cee4a64f08e08494",
+  "_spec": "cordova-plugin-device-motion@1.2.0",
+  "_where": "C:\\Users\\Iqra Muhammad\\Documents\\Sugarizer\\test5",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-device-motion/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-device-motion",
+    "platforms": [
+      "firefoxos",
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "blackberry10",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "tizen",
+      "browser"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Device Motion Plugin",
+  "homepage": "https://github.com/apache/cordova-plugin-device-motion#readme",
+  "keywords": [
+    "cordova",
+    "device",
+    "motion",
+    "ecosystem:cordova",
+    "cordova-firefoxos",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-ios",
+    "cordova-blackberry10",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-windows",
+    "cordova-tizen",
+    "cordova-browser"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-device-motion",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-device-motion.git"
+  },
+  "version": "1.2.0"
+}
