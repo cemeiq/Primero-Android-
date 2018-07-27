@@ -1,9 +1,8 @@
-{
-  "name": "Sugarizer",
-  "description": "A taste of Sugar on any device.",
-  "version": "0.9",
-  "author": "Lionel Laské for OLPC France",
-  "app": {
+﻿{
+  "name": "Primero",
+  "description": "",
+  "version": "0.1",
+  "author": "Lionel Laské for OLPC France",  "app": {
     "background": {
       "scripts": ["js/background.js"]
     }

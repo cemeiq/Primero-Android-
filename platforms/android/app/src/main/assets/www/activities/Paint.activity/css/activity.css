@@ -7,6 +7,7 @@
   max-width: none !important;
 }
 
+
 /*}*/
 
 #insertimage-button, #colors-button-fill, #colors-button-stroke, #undo-button, #redo-button, #size-button, #pen-button, #eraser-button, #stamps-button, #text-button, #drawings-button, #bucket-button, #filters-button, #copy-button, #paste-button, #clear-button {
@@ -187,10 +188,6 @@
 }
 #main-toolbar #clear-button {
   background-image: url(../icons/edit-clear.svg);
-}
-
-#stop-button {
- background-color:  RED;
 }
 #main-toolbar {}
 .palette .colors {
